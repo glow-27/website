@@ -1,0 +1,4 @@
+baseURL = 'https://glow-27.github.io/'
+languageCode = 'en-us'
+title = "Gabrielle Low"
+theme = "hugo-theme-console"
