@@ -1,0 +1,4 @@
+[submodule "gabrielle_low_website/public"]
+	path = gabrielle_low_website/public
+	url = https://github.com/glow-27/glow-27.github.io.git
+	branch = main
